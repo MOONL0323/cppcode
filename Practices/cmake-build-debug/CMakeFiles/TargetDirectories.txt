@@ -1,0 +1,5 @@
+D:/cppcode/Practices/cmake-build-debug/CMakeFiles/test.dir
+D:/cppcode/Practices/cmake-build-debug/CMakeFiles/T.dir
+D:/cppcode/Practices/cmake-build-debug/CMakeFiles/TEXT.dir
+D:/cppcode/Practices/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cppcode/Practices/cmake-build-debug/CMakeFiles/rebuild_cache.dir

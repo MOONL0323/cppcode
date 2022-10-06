@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TempTest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TempTest">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/TempTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 TempTest"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TempTest/fast">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/TempTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 TempTest/fast"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 a"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a/fast">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/a.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 a/fast"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="b">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 b"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="b/fast">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/b.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 b/fast"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/D.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 D"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D/fast">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/D.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 D/fast"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="E">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/E.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 E"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="E/fast">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/E.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 E/fast"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="F">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/F.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 F"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="F/fast">
+				<Option output="D:/cppcode/TempTest/cmake-build-debug/F.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="D:/opensources/CLion 2022.2/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 F/fast"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/cppcode/TempTest/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/opensources/CLion 2022.2/bin/mingw/bin/mingw32-make.exe -f &quot;D:/cppcode/TempTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/cppcode/TempTest/main.cpp">
+			<Option target="TempTest"/>
+		</Unit>
+		<Unit filename="D:/cppcode/TempTest/practice2.cpp">
+			<Option target="a"/>
+		</Unit>
+		<Unit filename="D:/cppcode/TempTest/practice3.cpp">
+			<Option target="b"/>
+		</Unit>
+		<Unit filename="D:/cppcode/TempTest/practiceD.cpp">
+			<Option target="D"/>
+		</Unit>
+		<Unit filename="D:/cppcode/TempTest/practiceE.cpp">
+			<Option target="E"/>
+		</Unit>
+		<Unit filename="D:/cppcode/TempTest/practiceF.cpp">
+			<Option target="F"/>
+		</Unit>
+		<Unit filename="D:/cppcode/TempTest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

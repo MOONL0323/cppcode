@@ -1,0 +1,4 @@
+"D:\opensources\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S D:\cppcode\TempTest -B D:\cppcode\TempTest\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/cppcode/TempTest/cmake-build-debug

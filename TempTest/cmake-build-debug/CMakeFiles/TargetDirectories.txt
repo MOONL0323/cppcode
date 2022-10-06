@@ -1,0 +1,8 @@
+D:/cppcode/TempTest/cmake-build-debug/CMakeFiles/TempTest.dir
+D:/cppcode/TempTest/cmake-build-debug/CMakeFiles/a.dir
+D:/cppcode/TempTest/cmake-build-debug/CMakeFiles/b.dir
+D:/cppcode/TempTest/cmake-build-debug/CMakeFiles/D.dir
+D:/cppcode/TempTest/cmake-build-debug/CMakeFiles/E.dir
+D:/cppcode/TempTest/cmake-build-debug/CMakeFiles/F.dir
+D:/cppcode/TempTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cppcode/TempTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
